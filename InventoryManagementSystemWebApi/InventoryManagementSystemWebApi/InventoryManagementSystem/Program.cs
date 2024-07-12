@@ -21,6 +21,7 @@ namespace InventoryManagementSystemWebApi
                 {
                     webBuilder.UseStartup<Startup>();
                 });
+
         private static readonly ILogger logger = LoggerFactory.Create(builder =>
         {
             builder.AddConsole();
