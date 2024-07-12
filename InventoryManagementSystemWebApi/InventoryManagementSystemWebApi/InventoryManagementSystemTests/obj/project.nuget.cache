@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XoYEtOtq6ms=",
+  "dgSpecHash": "atZj5HqDv8I=",
   "success": true,
-  "projectFilePath": "C:\\Users\\stani\\Desktop\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemTests\\InventoryManagementSystemTests.csproj",
+  "projectFilePath": "C:\\Users\\stani\\Desktop\\InventoryManagementSystem\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemTests\\InventoryManagementSystemTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\stani\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\stani\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",

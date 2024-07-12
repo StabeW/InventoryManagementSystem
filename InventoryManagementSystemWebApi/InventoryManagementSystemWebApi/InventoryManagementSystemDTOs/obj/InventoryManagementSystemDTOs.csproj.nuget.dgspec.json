@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\stani\\Desktop\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemDTOs\\InventoryManagementSystemDTOs.csproj": {}
+    "C:\\Users\\stani\\Desktop\\InventoryManagementSystem\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemDTOs\\InventoryManagementSystemDTOs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\stani\\Desktop\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemDTOs\\InventoryManagementSystemDTOs.csproj": {
+    "C:\\Users\\stani\\Desktop\\InventoryManagementSystem\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemDTOs\\InventoryManagementSystemDTOs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stani\\Desktop\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemDTOs\\InventoryManagementSystemDTOs.csproj",
+        "projectUniqueName": "C:\\Users\\stani\\Desktop\\InventoryManagementSystem\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemDTOs\\InventoryManagementSystemDTOs.csproj",
         "projectName": "InventoryManagementSystemDTOs",
-        "projectPath": "C:\\Users\\stani\\Desktop\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemDTOs\\InventoryManagementSystemDTOs.csproj",
+        "projectPath": "C:\\Users\\stani\\Desktop\\InventoryManagementSystem\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemDTOs\\InventoryManagementSystemDTOs.csproj",
         "packagesPath": "C:\\Users\\stani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stani\\Desktop\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemDTOs\\obj\\",
+        "outputPath": "C:\\Users\\stani\\Desktop\\InventoryManagementSystem\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemDTOs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = InventoryManagementSystemServices
-build_property.ProjectDir = C:\Users\stani\Desktop\InventoryManagementSystemWebApi\InventoryManagementSystemWebApi\InventoryManagementSystemServices\
+build_property.ProjectDir = C:\Users\stani\Desktop\InventoryManagementSystem\InventoryManagementSystemWebApi\InventoryManagementSystemWebApi\InventoryManagementSystemServices\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

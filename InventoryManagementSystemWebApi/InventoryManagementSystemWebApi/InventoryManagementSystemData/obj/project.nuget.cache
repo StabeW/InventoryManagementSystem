@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OuccecCSBC8=",
+  "dgSpecHash": "8thIy+clb+E=",
   "success": true,
-  "projectFilePath": "C:\\Users\\stani\\Desktop\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemData\\InventoryManagementSystemData.csproj",
+  "projectFilePath": "C:\\Users\\stani\\Desktop\\InventoryManagementSystem\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemData\\InventoryManagementSystemData.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\stani\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.32\\microsoft.aspnetcore.cryptography.internal.6.0.32.nupkg.sha512",
     "C:\\Users\\stani\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.32\\microsoft.aspnetcore.cryptography.keyderivation.6.0.32.nupkg.sha512",
