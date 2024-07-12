@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stani\\Desktop\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1792BC0-35C3-4DCF-8924-933DA41C0BB4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\users\\stani\\desktop\\inventorymanagementsystemwebapi\\inventorymanagementsystemwebapi\\inventorymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1792BC0-35C3-4DCF-8924-933DA41C0BB4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5027D889-4AD0-4C69-A611-48709AB8C330}|InventoryManagementSystemTests\\InventoryManagementSystemTests.csproj|c:\\users\\stani\\desktop\\inventorymanagementsystemwebapi\\inventorymanagementsystemwebapi\\inventorymanagementsystemtests\\inventoryservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5027D889-4AD0-4C69-A611-48709AB8C330}|InventoryManagementSystemTests\\InventoryManagementSystemTests.csproj|solutionrelative:inventorymanagementsystemtests\\inventoryservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5027D889-4AD0-4C69-A611-48709AB8C330}|InventoryManagementSystemTests\\InventoryManagementSystemTests.csproj|c:\\users\\stani\\desktop\\inventorymanagementsystemwebapi\\inventorymanagementsystemwebapi\\inventorymanagementsystemtests\\inventorymanagementsystemtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5027D889-4AD0-4C69-A611-48709AB8C330}|InventoryManagementSystemTests\\InventoryManagementSystemTests.csproj|solutionrelative:inventorymanagementsystemtests\\inventorymanagementsystemtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD199809-E64B-4BD5-9FC6-65A510761374}|InventoryManagementSystemServices\\InventoryManagementSystemServices.csproj|c:\\users\\stani\\desktop\\inventorymanagementsystemwebapi\\inventorymanagementsystemwebapi\\inventorymanagementsystemservices\\itemservice\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD199809-E64B-4BD5-9FC6-65A510761374}|InventoryManagementSystemServices\\InventoryManagementSystemServices.csproj|solutionrelative:inventorymanagementsystemservices\\itemservice\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1792BC0-35C3-4DCF-8924-933DA41C0BB4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\users\\stani\\desktop\\inventorymanagementsystemwebapi\\inventorymanagementsystemwebapi\\inventorymanagementsystem\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1792BC0-35C3-4DCF-8924-933DA41C0BB4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1792BC0-35C3-4DCF-8924-933DA41C0BB4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\users\\stani\\desktop\\inventorymanagementsystemwebapi\\inventorymanagementsystemwebapi\\inventorymanagementsystem\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1792BC0-35C3-4DCF-8924-933DA41C0BB4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8EBE8B-C07D-4513-8EC9-5109379A7619}|InventoryManagementSystemData\\InventoryManagementSystemData.csproj|c:\\users\\stani\\desktop\\inventorymanagementsystemwebapi\\inventorymanagementsystemwebapi\\inventorymanagementsystemdata\\common\\globalconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8EBE8B-C07D-4513-8EC9-5109379A7619}|InventoryManagementSystemData\\InventoryManagementSystemData.csproj|solutionrelative:inventorymanagementsystemdata\\common\\globalconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD199809-E64B-4BD5-9FC6-65A510761374}|InventoryManagementSystemServices\\InventoryManagementSystemServices.csproj|c:\\users\\stani\\desktop\\inventorymanagementsystemwebapi\\inventorymanagementsystemwebapi\\inventorymanagementsystemservices\\roleservice\\iusermanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD199809-E64B-4BD5-9FC6-65A510761374}|InventoryManagementSystemServices\\InventoryManagementSystemServices.csproj|solutionrelative:inventorymanagementsystemservices\\roleservice\\iusermanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8EBE8B-C07D-4513-8EC9-5109379A7619}|InventoryManagementSystemData\\InventoryManagementSystemData.csproj|c:\\users\\stani\\desktop\\inventorymanagementsystemwebapi\\inventorymanagementsystemwebapi\\inventorymanagementsystemdata\\repository\\inmemoryitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8EBE8B-C07D-4513-8EC9-5109379A7619}|InventoryManagementSystemData\\InventoryManagementSystemData.csproj|solutionrelative:inventorymanagementsystemdata\\repository\\inmemoryitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InventoryManagementSystemTests",
+              "DocumentMoniker": "C:\\Users\\stani\\Desktop\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemTests\\InventoryManagementSystemTests.csproj",
+              "RelativeDocumentMoniker": "InventoryManagementSystemTests\\InventoryManagementSystemTests.csproj",
+              "ToolTip": "C:\\Users\\stani\\Desktop\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemTests\\InventoryManagementSystemTests.csproj",
+              "RelativeToolTip": "InventoryManagementSystemTests\\InventoryManagementSystemTests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-12T08:45:12.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\stani\\Desktop\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystem\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\stani\\Desktop\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystem\\Controllers\\UserController.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T08:28:12.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventoryServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\stani\\Desktop\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemTests\\InventoryServiceTests.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystemTests\\InventoryServiceTests.cs",
+              "ToolTip": "C:\\Users\\stani\\Desktop\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemTests\\InventoryServiceTests.cs",
+              "RelativeToolTip": "InventoryManagementSystemTests\\InventoryServiceTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T08:22:48.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\stani\\Desktop\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystem\\Startup.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Startup.cs",
+              "ToolTip": "C:\\Users\\stani\\Desktop\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystem\\Startup.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\Startup.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBcAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T08:18:30.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\stani\\Desktop\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\stani\\Desktop\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystem\\Program.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T08:18:14.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GlobalConstants.cs",
+              "DocumentMoniker": "C:\\Users\\stani\\Desktop\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemData\\Common\\GlobalConstants.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystemData\\Common\\GlobalConstants.cs",
+              "ToolTip": "C:\\Users\\stani\\Desktop\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemData\\Common\\GlobalConstants.cs",
+              "RelativeToolTip": "InventoryManagementSystemData\\Common\\GlobalConstants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T20:04:36.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserManagementService.cs",
+              "DocumentMoniker": "C:\\Users\\stani\\Desktop\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemServices\\RoleService\\IUserManagementService.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystemServices\\RoleService\\IUserManagementService.cs",
+              "ToolTip": "C:\\Users\\stani\\Desktop\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemServices\\RoleService\\IUserManagementService.cs",
+              "RelativeToolTip": "InventoryManagementSystemServices\\RoleService\\IUserManagementService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T20:01:44.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InventoryService.cs",
+              "DocumentMoniker": "C:\\Users\\stani\\Desktop\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemServices\\ItemService\\InventoryService.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystemServices\\ItemService\\InventoryService.cs",
+              "ToolTip": "C:\\Users\\stani\\Desktop\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemServices\\ItemService\\InventoryService.cs",
+              "RelativeToolTip": "InventoryManagementSystemServices\\ItemService\\InventoryService.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAAwHsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T19:59:42.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InMemoryItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\stani\\Desktop\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemData\\Repository\\InMemoryItemRepository.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystemData\\Repository\\InMemoryItemRepository.cs",
+              "ToolTip": "C:\\Users\\stani\\Desktop\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemData\\Repository\\InMemoryItemRepository.cs",
+              "RelativeToolTip": "InventoryManagementSystemData\\Repository\\InMemoryItemRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T19:59:25.77Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
