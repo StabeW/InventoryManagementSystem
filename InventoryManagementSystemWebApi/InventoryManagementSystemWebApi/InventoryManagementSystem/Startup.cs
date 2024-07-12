@@ -20,16 +20,24 @@ namespace InventoryManagementSystemWebApi
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
-            services.AddSingleton<IItemRepository, InMemoryItemRepository>();
-            services.AddTransient<IInventoryService, InventoryService>();
+            services.AddScoped<IItemRepository, InMemoryItemRepository>();
+            services.AddScoped<IInventoryService, InventoryService>();
 
             services.AddScoped<IUserManagementService, UserManagementService>();
 
             services.AddHttpContextAccessor();
 
+
+            services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+
             services.AddIdentity<User, IdentityRole>()
                 .AddEntityFrameworkStores<InventoryManagementSystemDbContext>()
                 .AddDefaultTokenProviders();
+
+            services.AddAuthorization(options =>
+            {
+                options.AddPolicy("AdminPolicy", policy => policy.RequireRole("Admin"));
+            });
 
             services.AddLogging(logging =>
             {
@@ -53,6 +61,7 @@ namespace InventoryManagementSystemWebApi
 
             app.UseRouting();
 
+            app.UseAuthentication();
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
