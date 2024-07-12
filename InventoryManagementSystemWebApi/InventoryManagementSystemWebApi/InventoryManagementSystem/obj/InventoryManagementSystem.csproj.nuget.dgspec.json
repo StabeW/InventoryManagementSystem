@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\stani\\Desktop\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystem\\InventoryManagementSystem.csproj": {}
+    "C:\\Users\\stani\\Desktop\\InventoryManagementSystem\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystem\\InventoryManagementSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\stani\\Desktop\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemData\\InventoryManagementSystemData.csproj": {
+    "C:\\Users\\stani\\Desktop\\InventoryManagementSystem\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemData\\InventoryManagementSystemData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stani\\Desktop\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemData\\InventoryManagementSystemData.csproj",
+        "projectUniqueName": "C:\\Users\\stani\\Desktop\\InventoryManagementSystem\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemData\\InventoryManagementSystemData.csproj",
         "projectName": "InventoryManagementSystemData",
-        "projectPath": "C:\\Users\\stani\\Desktop\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemData\\InventoryManagementSystemData.csproj",
+        "projectPath": "C:\\Users\\stani\\Desktop\\InventoryManagementSystem\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemData\\InventoryManagementSystemData.csproj",
         "packagesPath": "C:\\Users\\stani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stani\\Desktop\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemData\\obj\\",
+        "outputPath": "C:\\Users\\stani\\Desktop\\InventoryManagementSystem\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemData\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -32,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\stani\\Desktop\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemDTOs\\InventoryManagementSystemDTOs.csproj": {
-                "projectPath": "C:\\Users\\stani\\Desktop\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemDTOs\\InventoryManagementSystemDTOs.csproj"
+              "C:\\Users\\stani\\Desktop\\InventoryManagementSystem\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemDTOs\\InventoryManagementSystemDTOs.csproj": {
+                "projectPath": "C:\\Users\\stani\\Desktop\\InventoryManagementSystem\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemDTOs\\InventoryManagementSystemDTOs.csproj"
               }
             }
           }
@@ -78,14 +78,14 @@
         }
       }
     },
-    "C:\\Users\\stani\\Desktop\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemDTOs\\InventoryManagementSystemDTOs.csproj": {
+    "C:\\Users\\stani\\Desktop\\InventoryManagementSystem\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemDTOs\\InventoryManagementSystemDTOs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stani\\Desktop\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemDTOs\\InventoryManagementSystemDTOs.csproj",
+        "projectUniqueName": "C:\\Users\\stani\\Desktop\\InventoryManagementSystem\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemDTOs\\InventoryManagementSystemDTOs.csproj",
         "projectName": "InventoryManagementSystemDTOs",
-        "projectPath": "C:\\Users\\stani\\Desktop\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemDTOs\\InventoryManagementSystemDTOs.csproj",
+        "projectPath": "C:\\Users\\stani\\Desktop\\InventoryManagementSystem\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemDTOs\\InventoryManagementSystemDTOs.csproj",
         "packagesPath": "C:\\Users\\stani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stani\\Desktop\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemDTOs\\obj\\",
+        "outputPath": "C:\\Users\\stani\\Desktop\\InventoryManagementSystem\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemDTOs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -142,14 +142,14 @@
         }
       }
     },
-    "C:\\Users\\stani\\Desktop\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemServices\\InventoryManagementSystemServices.csproj": {
+    "C:\\Users\\stani\\Desktop\\InventoryManagementSystem\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemServices\\InventoryManagementSystemServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stani\\Desktop\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemServices\\InventoryManagementSystemServices.csproj",
+        "projectUniqueName": "C:\\Users\\stani\\Desktop\\InventoryManagementSystem\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemServices\\InventoryManagementSystemServices.csproj",
         "projectName": "InventoryManagementSystemServices",
-        "projectPath": "C:\\Users\\stani\\Desktop\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemServices\\InventoryManagementSystemServices.csproj",
+        "projectPath": "C:\\Users\\stani\\Desktop\\InventoryManagementSystem\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemServices\\InventoryManagementSystemServices.csproj",
         "packagesPath": "C:\\Users\\stani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stani\\Desktop\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemServices\\obj\\",
+        "outputPath": "C:\\Users\\stani\\Desktop\\InventoryManagementSystem\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemServices\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -170,8 +170,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\stani\\Desktop\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemData\\InventoryManagementSystemData.csproj": {
-                "projectPath": "C:\\Users\\stani\\Desktop\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemData\\InventoryManagementSystemData.csproj"
+              "C:\\Users\\stani\\Desktop\\InventoryManagementSystem\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemData\\InventoryManagementSystemData.csproj": {
+                "projectPath": "C:\\Users\\stani\\Desktop\\InventoryManagementSystem\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemData\\InventoryManagementSystemData.csproj"
               }
             }
           }
@@ -216,14 +216,14 @@
         }
       }
     },
-    "C:\\Users\\stani\\Desktop\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystem\\InventoryManagementSystem.csproj": {
+    "C:\\Users\\stani\\Desktop\\InventoryManagementSystem\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystem\\InventoryManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stani\\Desktop\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystem\\InventoryManagementSystem.csproj",
+        "projectUniqueName": "C:\\Users\\stani\\Desktop\\InventoryManagementSystem\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystem\\InventoryManagementSystem.csproj",
         "projectName": "InventoryManagementSystem",
-        "projectPath": "C:\\Users\\stani\\Desktop\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystem\\InventoryManagementSystem.csproj",
+        "projectPath": "C:\\Users\\stani\\Desktop\\InventoryManagementSystem\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystem\\InventoryManagementSystem.csproj",
         "packagesPath": "C:\\Users\\stani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stani\\Desktop\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystem\\obj\\",
+        "outputPath": "C:\\Users\\stani\\Desktop\\InventoryManagementSystem\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -244,8 +244,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\stani\\Desktop\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemServices\\InventoryManagementSystemServices.csproj": {
-                "projectPath": "C:\\Users\\stani\\Desktop\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemServices\\InventoryManagementSystemServices.csproj"
+              "C:\\Users\\stani\\Desktop\\InventoryManagementSystem\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemServices\\InventoryManagementSystemServices.csproj": {
+                "projectPath": "C:\\Users\\stani\\Desktop\\InventoryManagementSystem\\InventoryManagementSystemWebApi\\InventoryManagementSystemWebApi\\InventoryManagementSystemServices\\InventoryManagementSystemServices.csproj"
               }
             }
           }
