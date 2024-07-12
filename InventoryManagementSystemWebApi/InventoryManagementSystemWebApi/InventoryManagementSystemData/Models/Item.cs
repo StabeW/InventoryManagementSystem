@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace InventoryManagementSystemData.Models
 {
-    public class Item : BaseEntity<int>
+    public class Item : BaseDeletableModel<int>
     {
         [Required]
         public string Name { get; set; }
