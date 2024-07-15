@@ -3,11 +3,7 @@ using Microsoft.AspNetCore.Identity;
 using InventoryManagementSystemData.Models;
 using InventoryManagementSystem.Infrastructure;
 using InventoryManagementSystemDTOs.ConfigurationsDto;
-using InventoryManagementSystemServices.InventoryServices;
-using InventoryManagementSystemData.Repositories;
-using InventoryManagementSystemServices.UserServices;
 using InventoryManagementSystemCommon;
-using Microsoft.OpenApi.Models;
 
 namespace InventoryManagementSystem
 {
